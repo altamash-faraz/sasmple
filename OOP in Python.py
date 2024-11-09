@@ -22,6 +22,15 @@ class computer:
         print(self.cpu,self.ram)                # printing class variable values
 
 com1 = computer('i5','16')
+
+
+
 com2 = computer('i5','8')
+
+
+
 com1.config()
+
+
+
 com2.config()
